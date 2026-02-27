@@ -1,3 +1,7 @@
+---
+permalink: /tallio-privacy-policy.html
+---
+
 **Privacy Policy**
 
 This privacy policy applies to the Tallio app (hereby referred to as "Application") for mobile devices that was created by Nathan Claus (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
